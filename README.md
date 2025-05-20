@@ -17,8 +17,7 @@ I work across the full stack, writing pure PHP and vanilla JavaScript to build f
 🚀 Open to New Projects
 
 I'm currently available for freelance work. Whether you need a lightweight custom theme, a full web application, or a developer who understands both the front and back of the stack — feel free to reach out.
-
-📧 contact@norweb.fr 
+ 
 🌐 https://norweb.fr
 
 <!---
