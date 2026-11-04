@@ -22,6 +22,10 @@ I design and build websites and web solutions from the first sketch to the finis
 
 Most of my code lives on my own Git server and in private client projects, so GitHub only shows a small part of my work. I'm happy to show more on request.
 
+### 🚀 Open to new projects
+
+Open to new projects and collaborations: as a freelancer through Norweb, or as part of a team.
+
 ### 🌍 Languages
 
 Norwegian · English · French
