@@ -1,26 +1,31 @@
-Hi! I'm a Norwegian freelance web developer based in France, working under the name Norweb. I've been building websites professionally since 2008, and even before that, I was experimenting with web projects driven by curiosity and creativity.
+Hi! I'm Morten, a Norwegian web developer and designer working under the name **Norweb**. I've been building websites professionally since 2008, for clients in Norway and France.
 
-I work across the full stack, writing pure PHP and vanilla JavaScript to build fast, custom solutions. I create tailor-made WordPress themes from scratch, but I’m not tied to one CMS or framework. I enjoy getting close to the code — solving real problems with clean, efficient solutions.
+I design and build websites and web solutions from the first sketch to the finished site, where design and code work together. I'm not tied to one CMS or framework: I choose the tools that give the client the best solution.
 
-💼 What I Do
+### 💼 What I do
 
-🧱 Full-Stack Development — Frontend & backend using raw PHP and JavaScript
+🎨 **WordPress with Timber & Twig**: my own parent theme, with a dedicated child theme for each client
 
-🎨 Custom WordPress Themes — Clean, responsive themes built from the ground up
+🧩 **From Figma to theme**: a theme generator I built turns a design system (colours, typography, spacing, components) into a finished child theme. This year I've connected AI closely to this workflow.
 
-🧠 Laravel (Learning) — Exploring modern PHP frameworks and MVC structure
+🖥️ **Frontend**: HTML, SCSS and vanilla JavaScript, with a focus on mobile, speed and accessibility
 
-⚛️ React / React Native — Built small projects using component-based architecture
+🧱 **Backend**: PHP 8.x and Laravel for custom backends and integrations
 
-🤝 Collaboration — Work closely with designers, agencies, and dev teams
+⚛️ **React / React Native**: component-based projects, and now working with Next.js and Sanity
 
-🚀 Open to New Projects
+🤖 **AI-assisted, human-reviewed**: I use AI tools daily in design, development and testing, and I review the code myself: accessibility, performance, security and maintainability
 
-I'm currently available for freelance work. Whether you need a lightweight custom theme, a full web application, or a developer who understands both the front and back of the stack — feel free to reach out.
- 
-🌐 https://norweb.fr
+🤝 **Collaboration**: close work with designers, agencies and dev teams, including long-term remote/hybrid collaboration with a Norwegian agency
 
-<!---
-Morten-Henning/Morten-Henning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📁 About this profile
+
+Most of my code lives on my own Git server and in private client projects, so GitHub only shows a small part of my work. I'm happy to show more on request.
+
+### 🌍 Languages
+
+Norwegian · English · French
+
+### 📫 Contact
+
+🌐 [norweb.fr](https://norweb.fr)
